@@ -4,5 +4,5 @@ This project containerizes a Flask web application using Docker, integrating Pos
 
  Docker Compose orchestrates these services, enabling easy deployment and scalability.
 
- Running `docker-compose up --build` sets up the environment, making the app accessible at `http://localhost`.
+ Running `docker compose up --build` sets up the environment, making the app accessible at `http://localhost:1639`.
 
