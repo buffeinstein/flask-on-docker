@@ -6,3 +6,6 @@ This project containerizes a Flask web application using Docker, integrating Pos
 
  Running `docker compose up --build` sets up the environment, making the app accessible at `http://localhost:1639`.
 
+Submission: 
+
+![Demo](cs143twitterhw3gid.gif)
